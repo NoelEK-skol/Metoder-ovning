@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Metoder-ovning/1.0.0": {
+        "runtime": {
+          "Metoder-ovning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metoder-ovning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

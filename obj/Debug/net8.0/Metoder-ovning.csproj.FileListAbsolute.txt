@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\bin\Debug\net8.0\Metoder-ovning.exe
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\bin\Debug\net8.0\Metoder-ovning.deps.json
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\bin\Debug\net8.0\Metoder-ovning.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\bin\Debug\net8.0\Metoder-ovning.dll
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\bin\Debug\net8.0\Metoder-ovning.pdb
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.dll
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\refint\Metoder-ovning.dll
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.pdb
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\ref\Metoder-ovning.dll
