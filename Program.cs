@@ -13,7 +13,11 @@ double CirkelArea(double radie) {
 }
 */
 
-double BeräknaMedel(float tal1, float tal2, float tal3)
+
+/*
+Console.WriteLine(beräknaMedel(22, 123, 34));
+double beräknaMedel (double tal1, double tal2, double tal3)
 {
-    return (tal1 + tal2 + tal3) /3;
+    return ((tal1 + tal2 + tal3) /3);
 }
+*/

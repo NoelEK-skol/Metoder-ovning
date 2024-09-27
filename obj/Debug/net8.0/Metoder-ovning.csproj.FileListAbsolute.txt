@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\refint\Metoder-o
 C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.pdb
 C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\ref\Metoder-ovning.dll
+C:\Users\Admin\Documents\GitHub\Metoder-ovning\obj\Debug\net8.0\Metoder-ovning.sourcelink.json

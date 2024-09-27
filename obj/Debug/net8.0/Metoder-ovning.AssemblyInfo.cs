@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metoder-ovning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4347e77c6c3100dc931d5fdc2cc630ee2cb0be3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c84444dfc148874dc5b34e0ab55669868a635cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metoder-ovning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metoder-ovning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
