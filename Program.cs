@@ -21,3 +21,15 @@ double beräknaMedel (double tal1, double tal2, double tal3)
     return ((tal1 + tal2 + tal3) /3);
 }
 */
+
+
+static void Main()   {
+    int a=10, b=20;
+    BytPlats (ref b, a);
+    //Här ska a ha värdet 20 och b värdet 10.
+    Console.WriteLine(a+" "+b);
+}
+
+static void BytPlats(ref int b)   {
+    
+}
